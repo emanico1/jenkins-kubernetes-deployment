@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "dockerhub-credentials/react-app"
+    dockerimagename = "emanico/react-app"
     dockerImage = ""
   }
 
