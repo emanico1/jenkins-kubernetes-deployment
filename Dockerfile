@@ -41,3 +41,6 @@ EXPOSE 3000
 
 #The command to start the React.js application container
 CMD ["npm", "start"]
+
+#Comand for dockerHub Token
+Run docker login -u emanico
